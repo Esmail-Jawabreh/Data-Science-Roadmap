@@ -2,7 +2,7 @@
 
 Master SQL concepts and queries essential for data manipulation and analysis.
 
-## 📘 Topics Covered
+## 🧩 Topics Covered
 
 | # | Section                 | Description                                   |
 |---|-------------------------|-----------------------------------------------|
