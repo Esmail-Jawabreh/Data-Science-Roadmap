@@ -6,7 +6,7 @@ This folder covers the fundamental concepts of variables and data types in Pytho
 - Variable declaration and assignment
 - Data types: int, float, string, bool
 - Type conversion and casting
-- Basic input/output examples
+- Basic output examples
 
 ## Resources
 - [Python Official Docs on Data Types](https://docs.python.org/3/library/stdtypes.html)
