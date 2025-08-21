@@ -1,6 +1,6 @@
 # Data Distributions
 
-A probability distribution shows how the values of a random variable are distributed.  
+A probability distribution describes how the values of a random variable are spread or distributed.  
 Understanding distributions is fundamental in statistics and data science, as they describe the likelihood of outcomes and help in selecting the right models.
 
 ## Topics Covered in the PDF
@@ -8,7 +8,8 @@ Understanding distributions is fundamental in statistics and data science, as th
 - **Uniform Distribution** — Equal probability for all outcomes.  
 - **Binomial Distribution** — Probability of success/failure in a fixed number of trials.  
 - **Poisson Distribution** — Probability of a number of events occurring in a fixed interval.  
-- **Discrete vs Continuous Distributions** — Key differences and use cases.  
+- **Comparison Table** — Summary of the four distributions.  
+- **Common Mistakes** — Frequent errors when interpreting distributions.  
 
 ## Detailed Notes
 [**Download / View the PDF**](./Data%20Distributions.pdf)
