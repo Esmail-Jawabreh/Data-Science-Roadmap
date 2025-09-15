@@ -19,7 +19,7 @@ It helps measure how likely an event is to occur, and is a foundation for statis
 
 ## Detailed Notes
 
-[Download / View the PDF](./Probability%20Basics.pdf)
+[Download / View the PDF](./Correlation%20%26%20Covariance.pdf)
 
 ---
 
